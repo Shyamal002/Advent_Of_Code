@@ -1,10 +1,13 @@
 # Advent_Of_Code (A0C)
 ======================
+
 This repository contains my code solutions to puzzles published in [Advent of Code 2020](https://adventofcode.com/2020)
 I am using Python for all my solutions.
 
 [Day 1: Report Repair](https://adventofcode.com/2020/day/1)
+
 [Day 2: Password Philosophy](https://adventofcode.com/2020/day/2)
+
 [Day 3: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 
 ## Progress
@@ -35,3 +38,5 @@ I am using Python for all my solutions.
 | Day 23 | |
 | Day 24 | |
 | Day 25 | |
+
+[Awesome A0C Repo](https://github.com/Bogdanp/awesome-advent-of-code#python)
