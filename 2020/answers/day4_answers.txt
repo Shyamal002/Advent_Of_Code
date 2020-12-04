@@ -1,0 +1,2 @@
+Part 1 - Valid count of passports is 216
+Part 2 - Valid count of passports is 150

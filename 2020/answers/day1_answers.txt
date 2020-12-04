@@ -1,0 +1,2 @@
+Part 1 - The numbers are 1066 and 954 and product is 1016964
+Part2 - The numbers are 295 and 509 and 1216 and product is 182588480

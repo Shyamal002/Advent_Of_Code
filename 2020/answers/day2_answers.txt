@@ -1,0 +1,2 @@
+Part 1 - good password count is 625
+Part 2 - good password count is 391
